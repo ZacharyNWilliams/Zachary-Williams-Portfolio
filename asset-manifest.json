@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Zachary-Williams-Portfolio/static/css/main.d12bc5a8.css",
+    "main.js": "/Zachary-Williams-Portfolio/static/js/main.d9c991b2.js",
+    "static/js/787.21b79cbd.chunk.js": "/Zachary-Williams-Portfolio/static/js/787.21b79cbd.chunk.js",
+    "static/media/GraveBook.png": "/Zachary-Williams-Portfolio/static/media/GraveBook.76499b74f507765851d8.png",
+    "static/media/MovieApp.png": "/Zachary-Williams-Portfolio/static/media/MovieApp.8295c5dbdbcfd3b8a684.png",
+    "static/media/InfiniteOptions.png": "/Zachary-Williams-Portfolio/static/media/InfiniteOptions.8be1027a58ea5c260099.png",
+    "static/media/grandcircus.png": "/Zachary-Williams-Portfolio/static/media/grandcircus.f00a0d549b328db0920e.png",
+    "static/media/PosApp.png": "/Zachary-Williams-Portfolio/static/media/PosApp.ac3fe76b000bf7336628.png",
+    "static/media/HomeMoreProject.png": "/Zachary-Williams-Portfolio/static/media/HomeMoreProject.abd26802b373f62dd89d.png",
+    "static/media/TapBox.png": "/Zachary-Williams-Portfolio/static/media/TapBox.e75356451fc264d5964b.png",
+    "index.html": "/Zachary-Williams-Portfolio/index.html",
+    "main.d12bc5a8.css.map": "/Zachary-Williams-Portfolio/static/css/main.d12bc5a8.css.map",
+    "main.d9c991b2.js.map": "/Zachary-Williams-Portfolio/static/js/main.d9c991b2.js.map",
+    "787.21b79cbd.chunk.js.map": "/Zachary-Williams-Portfolio/static/js/787.21b79cbd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d12bc5a8.css",
+    "static/js/main.d9c991b2.js"
+  ]
+}
